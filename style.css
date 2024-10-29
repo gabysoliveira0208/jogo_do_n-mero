@@ -1,6 +1,6 @@
 html {
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #ffe5f7, #feb47b);
+    background: linear-gradient(to right, #e258cb, #7bfeb6);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -70,18 +70,18 @@ html {
   }
 
   .ultimoResultado.errado {
-    background-color: #dc3445;
+    background-color: #ef0d24c7;
   }
 
   .ultimoResultado.correto {
-    background-color: #28a745;
+    background-color: #67d481;
   }
 
   .botaoReiniciar {
     display: block;
     margin: 20px auto;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #dcd436;
     color: white;
     border: none;
     border-radius: 5px;
