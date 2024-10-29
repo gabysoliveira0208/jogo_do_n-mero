@@ -70,7 +70,7 @@ html {
   }
 
   .ultimoResultado.errado {
-    background-color: #ef0d24c7;
+    background-color: #ef0d248a;
   }
 
   .ultimoResultado.correto {
@@ -81,7 +81,7 @@ html {
     display: block;
     margin: 20px auto;
     padding: 10px 20px;
-    background-color: #dcd436;
+    background-color: #eff317;
     color: white;
     border: none;
     border-radius: 5px;
